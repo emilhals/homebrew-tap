@@ -1,8 +1,8 @@
 class ChessTrainer < Formula
   desc "Practice chess openings in the terminal"
   homepage "https://github.com/emilhals/chess-trainer"
-  url "https://github.com/emilhals/chess-trainer/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "9b30f841b20606d10ac04506c7209e2e6a22e69de08df62041e0ee256a41f395"
+  url "https://github.com/emilhals/chess-trainer/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "b3b30bd40ee424dd7843aeb39d61b83fa7f6069b37c0dbff0f69426a55e37c6c"
   license "MIT"
 
   depends_on "rust" => :build
